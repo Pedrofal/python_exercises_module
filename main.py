@@ -1,4 +1,3 @@
-from exercises_package.using_variables import using_variables
 from exercises_package.basic_operations import basic_operations
 from exercises_package.lambda_exercise import lambda_exercise
 from exercises_package.paint_calculation import paint_calculation
@@ -19,12 +18,6 @@ from exercises_package.fruits_counter import fruits_counter
 # INSTRUCTIONS:
 # to run the code, simply remove the "#" symbol before the desired function.
 # to access the code of the functions, just open the .py file related to the desired function.
-
-# print someting in the console
-#hello_world()
-
-# stores a name and an age in variables and prints a formatted message with these variables using string interpolation.
-#using_variables()
 
 # prompts the user for two numbers, then calculates and displays the sum, subtraction, division, multiplication, and exponentiation.
 #basic_operations()
